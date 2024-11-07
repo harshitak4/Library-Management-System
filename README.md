@@ -1,6 +1,7 @@
 *LIBRARY MANAGEMENT SYSTEM*📚
 
 #Project Overview:
+
 This Library Management System is a web-based application designed to help manage a library’s book collection. It allows users to add, update, delete, and view books. Built using Java Servlet, JSP, and JDBC, this system provides a user-friendly interface for efficient management of books and their details.
 
 
