@@ -6,21 +6,21 @@ This Library Management System is a web-based application designed to help manag
 
 #Technologies Used:
  -Frontend:
-   HTML
+   HTML,
    JSP (Java Server Pages)
 - Backend:
-   Java Servlets
+   Java Servlets,
    JDBC (Java Database Connectivity)
 - Database:
    MySQL
 -Development Environment:
-   NetBeans 8.2
+   NetBeans 8.2, 
    XAMPP Server (for running MySQL)
 
 #Features:
 - Add Book: Users can add a new book to the library by providing details like book name, author, and category.
 - Update Book: Users can update the details of an existing book.
-- Delete Book: Users can delete a book from the catalog.
+- Delete Book: Users can delete a book from the list.
 - View Books: Users can view a list of all books in the library, including their details.
 
 #Database Schema:
