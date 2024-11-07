@@ -5,7 +5,7 @@ This Library Management System is a web-based application designed to help manag
 
 
 #Technologies Used:
- -Frontend:
+-Frontend:
    HTML,
    JSP (Java Server Pages)
 - Backend:
