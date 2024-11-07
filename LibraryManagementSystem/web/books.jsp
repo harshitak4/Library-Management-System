@@ -10,11 +10,11 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Library Management - Book Inventory</title>
+    <title>Library Management System- Book Inventory</title>
 </head>
 <body>
 
-<h2>Library Management - Book Inventory</h2>
+<h2>Book Inventory</h2>
 <table border="1" width="100%">
     <thead>
         <tr>
