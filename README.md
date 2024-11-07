@@ -39,6 +39,8 @@ This Library Management System is a web-based application designed to help manag
 6. Deploy the project and access it in the browser at http://localhost:8080/LibraryManagementSystem.
 
 #Output:
+
+
 ![lib_img1](https://github.com/user-attachments/assets/cc532af2-4880-4517-87a8-bce808841e62)
 ![lib_img2](https://github.com/user-attachments/assets/1687aeaf-9528-4d71-b5d2-81c987840e41)
 ![lib_img3](https://github.com/user-attachments/assets/278ec3c0-68f2-4d1c-9075-b452faabfd71)
