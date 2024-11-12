@@ -15,7 +15,7 @@ This Library Management System is a web-based application designed to help manag
    JDBC (Java Database Connectivity)
 - Database:
    MySQL
--Development Environment:
+- Development Environment:
    NetBeans 8.2, 
    XAMPP Server (for running MySQL)
 
